@@ -7,7 +7,7 @@ Reimagining Work for a Better Tomorrow
 
 <b>PRINCIPLES</b><br>
 To get the most out of being involved in the Project, it is important to have a common vision, since one aspect of the project relates to working on something you are really passionate about.
-<br>
+<br><br>
 1. Free and voluntary membership<br>
 2. Democratic Control among members<br>
 3. Economic participation of the members<br>
