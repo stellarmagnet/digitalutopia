@@ -3,6 +3,8 @@
 Reimagining Work for a Better Tomorrow
 
 
+:: This text is a work in progress ::
+
 <b>COMMONALITIES</b><br>
 To get the most out of being involved in the Project, it is important to have a common vision, since one aspect of the project relates to working on something you are really passionate about.
 
