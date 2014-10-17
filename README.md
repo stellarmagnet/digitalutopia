@@ -21,4 +21,4 @@ The first technological solution we need to solve is building a <b>Skeleton</b> 
 
 
 <b>PHYSICAL</b><br>
-A physical Center will solve the part of the initiative relating to fostering face-to-face human connections. Even though technological relations have grown more rampant over the years.
+A physical <b>Center</b> will solve the part of the initiative relating to fostering face-to-face human connections. Even though technological relations have grown more rampant over the years.
