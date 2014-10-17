@@ -1,5 +1,4 @@
 <h2>The Digital Utopia Project</h2>
-=============
 
 Reimagining Work for a Better Tomorrow
 
